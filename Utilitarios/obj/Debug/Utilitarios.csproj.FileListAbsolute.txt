@@ -1,0 +1,38 @@
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.Core.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.OAuth.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.Core.xml
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.OAuth.xml
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.dll
+E:\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+E:\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.dll
+E:\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.Core.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.OAuth.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.xml
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.Core.xml
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.OAuth.xml
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.Core.xml
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\bin\Debug\RestSharp.Portable.OAuth.xml
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.csproj.CopyComplete
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\Utilitarios\obj\Debug\Utilitarios.pdb

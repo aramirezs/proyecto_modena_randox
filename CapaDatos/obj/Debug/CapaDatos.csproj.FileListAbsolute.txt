@@ -1,0 +1,44 @@
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.dll
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.dll
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.pdb
+E:\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.dll
+E:\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaDatos\obj\Debug\CapaDatos.pdb

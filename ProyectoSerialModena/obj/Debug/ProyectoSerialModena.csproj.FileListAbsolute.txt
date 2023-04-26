@@ -1,0 +1,62 @@
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csprojResolveAssemblyReference.cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmModenaEnvRec.resources
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.Properties.Resources.resources
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csproj.GenerateResource.Cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe.config
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaNegocio.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaNegocio.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.exe
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe.manifest
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.application
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.exe.manifest
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.application
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmSerialAscii.resources
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe.config
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.exe
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe.manifest
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.application
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaEntidades.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaNegocio.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Utilitarios.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaDatos.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaEntidades.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaNegocio.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\CapaDatos.pdb
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csprojResolveAssemblyReference.cache
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmModenaEnvRec.resources
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmSerialAscii.resources
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.Properties.Resources.resources
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csproj.GenerateResource.Cache
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.exe.manifest
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.application
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.FrmLog.resources
+E:\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.Form1.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\bin\Debug\ProyectoSerialModena.exe.config
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.exe
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csprojResolveAssemblyReference.cache
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.Form1.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmModenaEnvRec.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.forms.FrmSerialAscii.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.FrmLog.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.Properties.Resources.resources
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\ProyectoSerialModena\obj\Debug\ProyectoSerialModena.csproj.GenerateResource.Cache

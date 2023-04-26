@@ -1,0 +1,30 @@
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.dll
+E:\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+E:\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.csproj.CopyComplete
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaEntidades\obj\Debug\CapaEntidades.pdb

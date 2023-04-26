@@ -1,0 +1,58 @@
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\jramirez\Desktop\pr\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.pdb
+E:\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.pdb
+E:\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.pdb
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Arturo\3. Proyectos\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\bin\Debug\Utilitarios.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\APP_ANTIGUAS\Otros\pryModena\ProyectoSerialC\CapaNegocio\obj\Debug\CapaNegocio.pdb
